@@ -7,6 +7,5 @@ public class NaturalPerson extends Address {
 	String name;
 	Date dateOfBirth;
 	Integer age;
-	Address address;
 
 }
