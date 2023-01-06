@@ -1,6 +1,6 @@
 package assesment;
 
-class LegalPerson {
+public class LegalPerson extends NaturalPerson{
 
 	Integer id;
 
